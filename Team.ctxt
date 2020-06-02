@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Team
+comment1.params=name
+comment1.target=Team(java.lang.String)
+comment1.text=\n\ constructor\n\ @param\ name\ \n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ return\ the\ team\ name\n\ @return\ name\n
+comment3.params=
+comment3.target=int\ getPoints()
+comment3.text=\n\ returns\ the\ number\ of\ points\n\ @return\ points\n
+comment4.params=
+comment4.target=int\ getGames()
+comment4.text=\n\ returns\ the\ number\ of\ games\ played\n\ @return\ games\n
+comment5.params=
+comment5.target=int\ getGoalDifference()
+comment5.text=\ \n\ returns\ the\ total\ goal\ difference\n\ @return\ goal\ difference\n
+comment6.params=goalsFor\ goalsAgainst
+comment6.target=void\ addResult(int,\ int)
+comment6.text=\n\ called\ at\ the\ end\ of\ each\ game\ to\ update\ the\ stats\n\ @param\ goalsFor\ goals\ scored\n\ @param\ goalsAgainst\ goals\ conceded\n
+numComments=7
